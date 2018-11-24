@@ -11,8 +11,6 @@ body{
     height: 300px;
 }
 .banner{
-    background-image: url('./images/');
-    background-size: cover !important;
     height: 100vh;
     display: flex;
     justify-content: center;
