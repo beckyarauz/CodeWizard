@@ -1,24 +1,27 @@
 *{
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     font-family: monospace;
 }
 body{
     margin:0;
     padding: 0;
-    
 }
 #codeWizard{
-    width: 30vw;
+    width: 20vw;
     height: auto;
 }
 .banner{
-    height: 100vh;
+    width: 80vw;
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
     text-align: center;
-    margin: 0 10vw;
+    margin: 10vh 10vw;
+}
+
+#social img{
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
 }
 
 h1{
