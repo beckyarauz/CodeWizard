@@ -5,10 +5,11 @@
 body{
     margin:0;
     padding: 0;
+    
 }
 #codeWizard{
-    width: 300px;
-    height: 300px;
+    width: 30vw;
+    height: auto;
 }
 .banner{
     height: 100vh;
@@ -16,7 +17,8 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
+    text-align: center;
+    margin: 0 10vw;
 }
 
 h1{
