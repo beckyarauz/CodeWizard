@@ -1,0 +1,25 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000o\u0000d\u0000e\u0000W\u0000i\u0000z\u0000a\u0000r\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beckyarauz/CodeWizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beckyarauz/CodeWizard/issues"
+  },
+  "homepage": "https://github.com/beckyarauz/CodeWizard#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "helmet": "^3.15.0"
+  }
+}
