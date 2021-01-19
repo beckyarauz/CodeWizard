@@ -19,6 +19,7 @@
   "homepage": "https://github.com/beckyarauz/CodeWizard#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "hbs": "^4.1.1",
     "helmet": "^3.15.0"
   }
 }
